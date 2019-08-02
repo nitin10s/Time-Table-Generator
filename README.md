@@ -7,8 +7,3 @@ Constraints Taken:
   <li>Only a particular number of rooms are available to take class.</li>
   <li>Classes of different batches can be combined if needed.</li>
 </ul>
-Screenshots:
-![](Screenshots/1.png)
-![](Screenshots/2.png)
-![](Screenshots/3.png)
-![](Screenshots/4.png)
