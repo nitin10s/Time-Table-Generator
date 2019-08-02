@@ -1,5 +1,6 @@
 # Time-Table-Generator
 <b>Time Table Generation System</b>
+<br>
 Constraints Taken:
 <ul>
   <li>Each subject is taught by one faculty.</li>
